@@ -1,0 +1,4 @@
+google.com 8.8.8.8
+yahoo.com 98.138.219.231
+github.com 192.30.255.113
+openai.com 52.44.42.29
