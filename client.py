@@ -19,7 +19,7 @@ def make_dns_request(transaction_id, query_domain):
 
 
 transaction_id = random.randint(1,10000)
-query_domain = "google.com"
+query_domain = input("Input the query domain name: ")
 
 response_transaction_id, response_ip = make_dns_request(transaction_id, query_domain)
 
